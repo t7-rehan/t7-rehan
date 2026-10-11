@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=%3C+Artificial+Intelligence+%2F+Backend+%2F+Cloud+%3E" alt="Artificial Intelligence / Backend / Cloud" />
+# REHAN TAMBOLI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER" alt="Full Stack Developer" />
 
 <br/>
 
@@ -26,4 +28,5 @@
 </a>
 
 </div>
+
 
