@@ -100,9 +100,6 @@
 <tr>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /><br/>TensorFlow</td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /><br/>PyTorch</td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=blender&theme=dark" width="48" /><br/>Blender</td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="48" /><br/>Unity</td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48" /><br/>Jupyter</td>
 </tr>
 </table>
 
