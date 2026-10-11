@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 # REHAN TAMBOLI
@@ -81,4 +81,3 @@
 <sub>Building skills. Solving problems. Creating what's next.</sub>
 
 </div>
-```
