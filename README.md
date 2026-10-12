@@ -106,6 +106,26 @@
 </div>
 
 
+
+### > ANALYTICS_DASHBOARD.exe
+
+<div align="center">
+
+<a href="https://github.com/t7-rehan">
+  <img src="https://img.shields.io/github/followers/t7-rehan?label=Followers&style=flat&logo=github&color=blue" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/t7-rehan?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ft7--rehan&query=%24.public_repos&label=Public%20Repos&logo=github&color=blue" alt="Public Repositories" />
+</a>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=t7-rehan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=t7-rehan&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=F0E14A&currStreakLabel=39D353" alt="GitHub Contribution Streak" />
+
+</div>
+
+
 ### > SNAKE_GAME.exe — Eating contributions 🐍
 
 <div align="center">
